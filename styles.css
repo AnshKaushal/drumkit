@@ -11,6 +11,10 @@ h1 {
 
 }
 
+p{
+  text-align : center;
+}
+
 footer {
   color: #DBEDF3;
   font-family: sans-serif;
