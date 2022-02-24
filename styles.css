@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #283149;
+  background-color: #6EBFBF;
 }
 
 h1 {
@@ -11,15 +11,16 @@ h1 {
 
 }
 
-p{
-  text-align : center;
-}
-
 footer {
   color: #DBEDF3;
   font-family: sans-serif;
 }
 
+p{
+  text-align: center;
+  font-size: 3rem;
+  color : #7A0BC0;
+}
 .w {
   background-image: url("images/tom1.png");
 }
